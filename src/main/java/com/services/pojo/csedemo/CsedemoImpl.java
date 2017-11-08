@@ -7,7 +7,7 @@ import javax.validation.constraints.*;
 import io.servicecomb.provider.pojo.RpcSchema;
 import com.services.pojo.csedemo.Csedemo;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.CsePojoCodegen", date = "2017-11-08T01:49:56.833Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.CsePojoCodegen", date = "2017-11-08T02:11:30.908Z")
 
 @RpcSchema(schemaId = "csedemo")
 public class CsedemoImpl implements Csedemo {
